@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "usart.h": "c",
+        "sys.h": "c",
+        "stm32f4xx_conf.h": "c",
+        "stm32f4xx.h": "c",
+        "drv_bluetooth.h": "c",
+        "drv_wave.h": "c",
+        "timer.h": "c",
+        "bsp.h": "c"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "drv_ubloxgps.h": "c",
+        "drv_anoof.h": "c",
+        "sysconfig.h": "c",
+        "drv_bsp.h": "c",
+        "mcuconfig.h": "c",
+        "stm32f4xx.h": "c"
+    }
+}
